@@ -1,0 +1,10 @@
+.titulo{
+    height: 200px;
+    background-color: aqua;
+
+    border-radius: 10px;
+}
+
+.titulo h1{
+    text-align: center;
+}

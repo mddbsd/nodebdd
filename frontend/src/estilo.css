@@ -1,0 +1,35 @@
+.formulario-container{
+    margin: auto;
+    justify-self: center;
+    border: 2px solid;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: grey;
+    box-shadow: 10px;
+    width: 85%;
+}
+
+form{
+    max-width: 100%;
+    margin: auto;
+}
+
+label{
+    display: block;
+    margin-top: 10px;
+}
+input, select{
+    width: 90%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid;
+    border-radius: 0 0 5px 5px;
+    transition: border-color 0.3s background-color 0.3s;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    cursor: pointer;
+}
